@@ -12,3 +12,5 @@
 [Homework06](./Homework06.ipynb)
 
 [Homework07](./Homework07.ipynb)
+
+[Homework08](./Homework08.ipynb)
