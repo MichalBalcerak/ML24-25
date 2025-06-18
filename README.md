@@ -20,3 +20,5 @@
 [Homework10](./Homework10.ipynb)
 
 [Homework11](./Homework11.ipynb)
+
+[Homework12](./Homework12.ipynb)
