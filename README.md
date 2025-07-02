@@ -23,4 +23,3 @@
 
 [Homework12](./Homework12.ipynb)
 
-[Homework13](./Homework13.ipynb)
